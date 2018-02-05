@@ -1,0 +1,2 @@
+require('./sanitycheck-webpack.js');
+
