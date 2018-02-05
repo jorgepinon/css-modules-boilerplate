@@ -1,0 +1,13 @@
+.btn {
+	padding: 1em 2em;
+	border: none;
+	background: rgba(130,130,130,0.2);
+	color: white;
+}
+
+.btnPrimary {
+	composes: btn;
+
+	background: tomato;
+
+}

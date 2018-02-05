@@ -1,0 +1,6 @@
+{
+	"presets": [ 
+		"babel-preset-env", // define which syntax we’re using
+		"react"
+	] 
+}
