@@ -1,4 +1,4 @@
-import styles from './screen.css'
+import styles from './screen.scss'
 
 import React from 'react'
 import ReactDomServer from 'react-dom/server'
