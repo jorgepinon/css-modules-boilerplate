@@ -10,6 +10,6 @@ and run the webpack build:
 
 ```webpack```
 
-This project is inspired by Mark Dalgleish's post, [A Unified Styling Language]('https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660') and [css-modules]('https://github.com/css-modules/css-modules') on Github.
+This project is inspired by Mark Dalgleish's post, [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) and [css-modules](https://github.com/css-modules/css-modules) on Github.
 
 The first post that convinced me that CSS-in-JS is worth looking into.
